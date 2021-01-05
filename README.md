@@ -8,3 +8,6 @@
 
 
 
+#### Setup de sensores con Raspberry pi
++ Temperatura y humedad: [sensor DHT11](https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/)
++ Calidad de aire (detección de NH3, NOx, alcohol, benceno, humo, CO2, etc.): [sensor MQ135](https://tutorials-raspberrypi.com/configure-and-read-out-the-raspberry-pi-gas-sensor-mq-x/)
